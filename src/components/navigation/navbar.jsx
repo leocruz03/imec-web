@@ -17,7 +17,7 @@ export const Navbar = () => {
                 <section>
                     <a href="#"><img src={logo} alt="logo_imec" className="w-20" /></a>
                 </section>
-                <nav className="hidden md:flex items-center justify-between space-x-36 font-semibold text-sm uppercase">
+                <nav className="hidden md:flex items-center justify-between space-x-36 font-bold text-sm uppercase">
                     <a href="#">sedes</a>
                     <a href="#">donaciones</a>
                     <a href="#">asistencia</a>
